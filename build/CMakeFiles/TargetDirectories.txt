@@ -1,0 +1,4 @@
+/Users/w/GitSets/Git_JsonTransfer/build/CMakeFiles/leptjson_test.dir
+/Users/w/GitSets/Git_JsonTransfer/build/CMakeFiles/rebuild_cache.dir
+/Users/w/GitSets/Git_JsonTransfer/build/CMakeFiles/edit_cache.dir
+/Users/w/GitSets/Git_JsonTransfer/build/CMakeFiles/leptjson.dir
